@@ -1,9 +1,6 @@
 # Configuration Apache SSL - Mozilla Guideline
 
-Voici un exemple de fichier README.md expliquant le fichier de configuration Apache/SSL que tu as partagé :
-Configuration Apache SSL - Mozilla Guideline
-
-Ce fichier de configuration a été généré le 14 juillet 2024 en utilisant les recommandations de la version 5.7 des directives de sécurité de Mozilla pour la configuration intermédiaire d'Apache 2.4.61 avec OpenSSL 1.1.1k. Il a pour but de sécuriser les connexions HTTP/HTTPS en configurant SSL/TLS avec des pratiques de sécurité recommandées.
+Ce fichier de configuration a été généré en utilisant les recommandations de la version 5.7 des directives de sécurité de Mozilla pour la configuration intermédiaire d'Apache 2.4.61 avec OpenSSL 1.1.1k. Il a pour but de sécuriser les connexions HTTP/HTTPS en configurant SSL/TLS avec des pratiques de sécurité recommandées.
 Prérequis
 
 Cette configuration nécessite les modules suivants dans Apache :
